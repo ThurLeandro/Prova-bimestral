@@ -1,6 +1,6 @@
 const express = require("express");
 
-const port = 3000;
+const port = 3306;
 
 const cookieParser = require("cookie-parser");
 
